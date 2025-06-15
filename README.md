@@ -46,8 +46,8 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/farm-assistant.git
-cd farm-assistant
+git clone https://github.com/Tuhin/Farmer-Friend.git
+cd Farmer-Friend
 ```
 
 ### 2. Install Dependencies
@@ -88,7 +88,6 @@ farm-assistant/
 │   ├── crop.html         # Crop recommendation form
 │   ├── fertilizer.html   # Fertilizer recommendation form
 │   └── result.html       # Results display page
-├── static/               # Static assets (if any)
 ├── requirements.txt      # Python dependencies
 └── README.md            # This file
 ```
@@ -174,9 +173,6 @@ We welcome contributions! Here's how you can help:
 4. 📤 Push to the branch (`git push origin feature/amazing-feature`)
 5. 🔀 Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
